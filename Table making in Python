@@ -1,0 +1,7 @@
+a= int(input("Enter the table you want : "))
+
+c=1
+while c<=10 :
+    d=a*c
+    print (a,"x",c ,"=",d)
+    c+=1
